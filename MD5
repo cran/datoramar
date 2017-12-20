@@ -1,0 +1,7 @@
+67ccb83e3bd35dbe202fa30771e71e19 *DESCRIPTION
+b6ba1a5565326116bc708b1a789e73f2 *LICENSE
+23bfebb2c9c77a7a7911fc934d5a93e2 *NAMESPACE
+2716fb54f9163b8ea6fb5ecbaff6b650 *R/datorama_auth.R
+4b914a8e8d452bb5eb2d901aaee8138f *R/datorama_query.R
+4b0ff78b9469db2e810e21ce059105c2 *man/datorama_query.Rd
+4466eaf3bbcefae5ae07c24f373966ba *man/datorama_token.Rd
